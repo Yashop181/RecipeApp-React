@@ -1,0 +1,48 @@
+/* App.css */
+
+.App {
+    text-align: center;
+  }
+  
+  .recipe-list {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+  }
+  
+  .recipe-link {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .recipe {
+    position: relative; /* Ensure the hover effect overlays the image */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden; /* Clip overflow for rounded corners */
+    margin: 16px;
+    max-width: 400px;
+    text-align: center;
+  }
+  
+  .recipe img {
+    width: 100%;
+    border-radius: 8px;
+    transition: transform 0.3s ease; /* Add transition for smooth effect */
+  }
+  
+  .recipe:hover img {
+    transform: scale(1.1); /* Scale up image on hover */
+  }
+  
+  .search-container {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .search-input {
+    padding: 10px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }

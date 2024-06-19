@@ -1,0 +1,273 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Spaghetti Carbonara",
+      "ingredients": [
+        "200g spaghetti",
+        "100g pancetta",
+        "2 large eggs",
+        "50g pecorino cheese",
+        "50g parmesan",
+        "Freshly ground black pepper",
+        "Salt"
+      ],
+      "instructions": "1. Cook spaghetti. 2. Fry pancetta. 3. Beat eggs and mix with cheese. 4. Combine all with pasta. 5. Season with pepper.",
+      "image": "https://images.unsplash.com/photo-1588013273468-315fd88ea34c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3BhZ2hldHRpJTIwY2FyYm9uYXJhfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 2,
+      "title": "Chicken Alfredo",
+      "ingredients": [
+        "200g fettuccine",
+        "2 chicken breasts",
+        "1 cup heavy cream",
+        "1 cup grated parmesan",
+        "2 tbsp butter",
+        "2 cloves garlic",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": "1. Cook fettuccine. 2. Cook chicken. 3. Make Alfredo sauce with cream, butter, and cheese. 4. Combine all.",
+      "image": "https://plus.unsplash.com/premium_photo-1667683471745-2327853febc1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+
+    {
+      "id": 3,
+      "title": "Caesar Salad",
+      "ingredients": [
+        "1 romaine lettuce",
+        "1/2 cup grated parmesan",
+        "1 cup croutons",
+        "2 anchovy fillets",
+        "1 egg yolk",
+        "1 clove garlic",
+        "1 tsp Dijon mustard",
+        "2 tbsp lemon juice",
+        "1/2 cup olive oil",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": "1. Make dressing. 2. Toss lettuce with dressing, parmesan, and croutons.",
+      "image": "https://images.unsplash.com/photo-1512852939750-1305098529bf?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 4,
+      "title": "Margherita Pizza",
+      "ingredients": [
+        "Pizza dough",
+        "1 cup tomato sauce",
+        "200g mozzarella cheese",
+        "Fresh basil",
+        "Olive oil",
+        "Salt"
+      ],
+      "instructions": "1. Spread sauce on dough. 2. Add cheese and basil. 3. Bake at 220°C for 15 minutes.",
+      "image": "https://images.unsplash.com/photo-1598023696416-0193a0bcd302?q=80&w=1872&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 5,
+      "title": "Chocolate Chip Cookies",
+      "ingredients": [
+        "1 cup butter",
+        "1 cup sugar",
+        "1 cup brown sugar",
+        "2 eggs",
+        "2 tsp vanilla extract",
+        "3 cups flour",
+        "1 tsp baking soda",
+        "1/2 tsp salt",
+        "2 cups chocolate chips"
+      ],
+      "instructions": "1. Mix wet ingredients. 2. Add dry ingredients. 3. Fold in chocolate chips. 4. Bake at 180°C for 10 minutes.",
+      "image": "https://images.unsplash.com/photo-1583743089695-4b816a340f82?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+
+    {
+      "id": 6,
+      "title": "Pancakes",
+      "ingredients": [
+        "1 cup flour",
+        "2 tbsp sugar",
+        "1 tsp baking powder",
+        "1/2 tsp baking soda",
+        "1/2 tsp salt",
+        "1 cup buttermilk",
+        "1 egg",
+        "2 tbsp melted butter"
+      ],
+      "instructions": "1. Mix dry ingredients. 2. Add wet ingredients. 3. Cook on griddle until bubbles form.",
+      "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 7,
+      "title": "Grilled Cheese Sandwich",
+      "ingredients": [
+        "2 slices bread",
+        "2 slices cheese",
+        "Butter"
+      ],
+      "instructions": "1. Butter bread. 2. Add cheese between slices. 3. Grill until golden brown.",
+      "image": "https://images.unsplash.com/photo-1475090169767-40ed8d18f67d?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 8,
+      "title": "Chicken Curry",
+      "ingredients": [
+        "500g chicken breast",
+        "1 onion",
+        "2 cloves garlic",
+        "1 tbsp ginger",
+        "1 can coconut milk",
+        "2 tbsp curry powder",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": "1. Cook chicken. 2. Sauté onions, garlic, and ginger. 3. Add curry powder and coconut milk. 4. Combine with chicken.",
+      "image": "https://images.unsplash.com/photo-1627366422957-3efa9c6df0fc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 9,
+      "title": "Greek Salad",
+      "ingredients": [
+        "4 tomatoes",
+        "1 cucumber",
+        "1 red onion",
+        "1/2 cup olives",
+        "200g feta cheese",
+        "Olive oil",
+        "Oregano",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": "1. Chop vegetables. 2. Add olives and feta. 3. Drizzle with olive oil and season.",
+      "image": "https://images.unsplash.com/photo-1606735584785-1848fdcaea57?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 10,
+      "title": "Tomato Soup",
+      "ingredients": [
+        "1kg tomatoes",
+        "1 onion",
+        "2 cloves garlic",
+        "2 cups vegetable broth",
+        "1/2 cup cream",
+        "Salt",
+        "Pepper",
+        "Basil"
+      ],
+      "instructions": "1. Sauté onions and garlic. 2. Add tomatoes and broth. 3. Simmer and blend. 4. Add cream and season.",
+      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 11,
+      "title": "French Toast",
+      "ingredients": [
+        "4 slices bread",
+        "2 eggs",
+        "1/2 cup milk",
+        "1 tsp cinnamon",
+        "1 tsp vanilla extract",
+        "Butter",
+        "Maple syrup"
+      ],
+      "instructions": "1. Mix eggs, milk, cinnamon, and vanilla. 2. Dip bread in mixture. 3. Cook in butter until golden.",
+      "image": "https://images.unsplash.com/photo-1588484588657-0bbbee05132f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 12,
+      "title": "Caprese Salad",
+      "ingredients": [
+        "4 tomatoes",
+        "200g mozzarella cheese",
+        "Fresh basil",
+        "Olive oil",
+        "Balsamic vinegar",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": "1. Slice tomatoes and mozzarella. 2. Layer with basil. 3. Drizzle with olive oil and balsamic vinegar. 4. Season with salt and pepper.",
+      "image": "https://plus.unsplash.com/premium_photo-1677619680730-b1d7311990f6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 13,
+      "title": "BBQ Ribs",
+      "ingredients": [
+        "1 rack pork ribs",
+        "1 cup BBQ sauce",
+        "Salt",
+        "Pepper",
+        "Garlic powder",
+        "Onion powder",
+        "Paprika"
+      ],
+      "instructions": "1. Season ribs. 2. Bake at 150°C for 2 hours. 3. Brush with BBQ sauce and grill.",
+      "image": "https://plus.unsplash.com/premium_photo-1663012872761-33dd73e292cc?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 14,
+      "title": "Vegetable Stir Fry",
+      "ingredients": [
+        "1 bell pepper",
+        "1 carrot",
+        "1 broccoli",
+        "1 onion",
+        "2 cloves garlic",
+        "2 tbsp soy sauce",
+        "1 tbsp olive oil",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": "1. Chop vegetables. 2. Stir-fry garlic and onion. 3. Add remaining vegetables and soy sauce. 4. Cook until tender.",
+      "image": "https://images.unsplash.com/photo-1543826173-cfe2ca17577d?q=80&w=2034&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 15,
+      "title": "Shrimp Scampi",
+      "ingredients": [
+        "500g shrimp",
+        "1/2 cup butter",
+        "4 cloves garlic",
+        "1/2 cup white wine",
+        "1 lemon",
+        "Parsley",
+        "Salt",
+        "Pepper",
+        "200g spaghetti"
+      ],
+      "instructions": "1. Cook spaghetti. 2. Sauté garlic in butter. 3. Add shrimp and cook. 4. Add wine, lemon juice, and pasta.",
+      "image": "https://plus.unsplash.com/premium_photo-1711648506957-a7c032e8361f?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 16,
+      "title": "Apple Pie",
+      "ingredients": [
+        "2 pie crusts",
+        "6 apples",
+        "1 cup sugar",
+        "2 tbsp flour",
+        "1 tsp cinnamon",
+        "1/4 tsp nutmeg",
+        "1 tbsp lemon juice"
+      ],
+      "instructions": "1. Peel and slice apples. 2. Mix with sugar, flour, and spices. 3. Fill crusts and bake at 180°C for 45 minutes.",
+      "image": "https://plus.unsplash.com/premium_photo-1666353535417-c86616951727?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+
+    {
+      "id": 17,
+      "title": "Omelette",
+      "ingredients": [
+        "3 eggs",
+        "1/4 cup milk",
+        "1/2 cup diced vegetables",
+        "1/4 cup shredded cheese",
+        "Salt",
+        "Pepper",
+        "Butter"
+      ],
+      "instructions": "1. Beat eggs and milk. 2. Cook vegetables. 3. Add egg mixture. 4. Add cheese and fold.",
+      "image": "https://images.unsplash.com/photo-1494597706938-de2cd7341979?q=80&w=1808&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}
